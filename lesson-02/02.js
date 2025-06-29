@@ -11,6 +11,8 @@ let dice1 // your code
 let dice2 // your code
 let isWinningDouble // your code
 
+
+
 /*
 console.log('Первый бросок: ' + dice1)
 console.log('Второй бросок: ' + dice2)

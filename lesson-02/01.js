@@ -21,5 +21,6 @@ if ((isAdmin || isVerifiedUser) && (hasSpecialPermission || hasTemporaryPass)) {
     console.log("You have access to do this!");
 
 } else {
+    isAccess = false;
     console.log("You don't  have access to do this!")
 }
