@@ -11,7 +11,7 @@ let dice1 = Math.floor(Math.random() * 7); // your code
 let dice2 = Math.floor(Math.random() * 7) ; // your code
 let isWinningDouble // your code
 
-if ((dice1 === dice2) && (dice1&&dice2 > 3)) {
+if ((dice1 === dice2) && (dice1 && dice2 > 3)) {
     isWinningDouble = true;
 } else  {
     isWinningDouble = false;
